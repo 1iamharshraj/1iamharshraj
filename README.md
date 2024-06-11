@@ -1,6 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=1iamharshraj&theme=dark)](https://git.io/streak-stats)
 
-
 <h1 align="center">Hi 👋, I'm Harsh Raj A</h1>
 <h3 align="center">A passonate AI/ML engineer.</h3>
 
