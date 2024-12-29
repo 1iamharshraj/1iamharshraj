@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj A</h1>
 <h3 align="center">A passonate AI/ML engineer.</h3>
 
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://leetcard.jacoblin.cool/Iamharshraj?theme=dark&font=Emilys%20Candy&ext=heatmap" alt="1iamharshraj" />
+  </div>
+  <div>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=iamharshraj&theme=dark&border=no-border&animated=true" />
+  </div>
+</div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Iamharshraj?theme=dark&font=Emilys%20Candy&ext=heatmap)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1iamharshraj&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="1iamharshraj" /> </p>
